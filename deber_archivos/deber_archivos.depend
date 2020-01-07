@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578411405 source:c:\users\stef_\onedrive\documentos\estructuras de datos\deber_archivos\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
