@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578431229 source:c:\users\algoritmos\desktop\lineal\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
