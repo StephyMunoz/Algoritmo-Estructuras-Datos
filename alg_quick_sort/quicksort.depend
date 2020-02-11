@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1581001368 source:c:\users\algoritmos\desktop\quicksort\main.cpp
+	<iostream>
+	<fstream>
+
+1581001670 source:e:\aed programas\quicksort\main.cpp
+	<iostream>
+	<fstream>
+
