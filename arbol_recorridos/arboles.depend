@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581995443 source:c:\users\stef_\onedrive\documentos\estructuras de datos\arboles\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
