@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1582570585 source:c:\users\stef_\onedrive\documentos\estructuras de datos\heapsort\main.cpp
+	<iostream>
+	"heapsort.h"
+	"ingresar.h"
+	"imprimir.h"
+
+1582570585 c:\users\stef_\onedrive\documentos\estructuras de datos\heapsort\heapsort.h
+
+1582570585 c:\users\stef_\onedrive\documentos\estructuras de datos\heapsort\ingresar.h
+
+1582570627 c:\users\stef_\onedrive\documentos\estructuras de datos\heapsort\imprimir.h
+
