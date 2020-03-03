@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1583217013 source:c:\users\stef_\onedrive\documentos\estructuras de datos\trabajo_final_librerias\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<direct.h>
+	"ingresar.h"
+	"archivo_calificaciones.h"
+	"ordenar.h"
+	"archivo_ordenar.h"
+	"busqueda.h"
+	"archivo_busqueda.h"
+
+1583215007 c:\users\stef_\onedrive\documentos\estructuras de datos\trabajo_final_librerias\ingresar.h
+
+1583215224 c:\users\stef_\onedrive\documentos\estructuras de datos\trabajo_final_librerias\archivo_calificaciones.h
+
+1583216991 c:\users\stef_\onedrive\documentos\estructuras de datos\trabajo_final_librerias\ordenar.h
+
+1583217013 c:\users\stef_\onedrive\documentos\estructuras de datos\trabajo_final_librerias\archivo_ordenar.h
+
+1583217682 c:\users\stef_\onedrive\documentos\estructuras de datos\trabajo_final_librerias\busqueda.h
+
+1583218424 c:\users\stef_\onedrive\documentos\estructuras de datos\trabajo_final_librerias\archivo_busqueda.h
+
+1583217013 source:c:\users\stef_\desktop\trabajo_final_librerias\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<direct.h>
+	"ingresar.h"
+	"archivo_calificaciones.h"
+	"ordenar.h"
+	"archivo_ordenar.h"
+	"busqueda.h"
+	"archivo_busqueda.h"
+
+1583215007 c:\users\stef_\desktop\trabajo_final_librerias\ingresar.h
+
+1583215224 c:\users\stef_\desktop\trabajo_final_librerias\archivo_calificaciones.h
+
+1583216991 c:\users\stef_\desktop\trabajo_final_librerias\ordenar.h
+
+1583217013 c:\users\stef_\desktop\trabajo_final_librerias\archivo_ordenar.h
+
+1583217682 c:\users\stef_\desktop\trabajo_final_librerias\busqueda.h
+
+1583218424 c:\users\stef_\desktop\trabajo_final_librerias\archivo_busqueda.h
+
+1583217013 source:c:\users\stef_\desktop\algoritmo-estructuras-datos\trabajo_final_librerias\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<direct.h>
+	"ingresar.h"
+	"archivo_calificaciones.h"
+	"ordenar.h"
+	"archivo_ordenar.h"
+	"busqueda.h"
+	"archivo_busqueda.h"
+
+1583215007 c:\users\stef_\desktop\algoritmo-estructuras-datos\trabajo_final_librerias\ingresar.h
+
+1583252981 c:\users\stef_\desktop\algoritmo-estructuras-datos\trabajo_final_librerias\archivo_calificaciones.h
+
+1583216991 c:\users\stef_\desktop\algoritmo-estructuras-datos\trabajo_final_librerias\ordenar.h
+
+1583217013 c:\users\stef_\desktop\algoritmo-estructuras-datos\trabajo_final_librerias\archivo_ordenar.h
+
+1583217682 c:\users\stef_\desktop\algoritmo-estructuras-datos\trabajo_final_librerias\busqueda.h
+
+1583218424 c:\users\stef_\desktop\algoritmo-estructuras-datos\trabajo_final_librerias\archivo_busqueda.h
+
